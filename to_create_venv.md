@@ -29,3 +29,18 @@ deactivate
 rm -r myenv
 ```
 Please replace `myenv` with your virtual environment name if it's different. This will delete the virtual environment and all of its contents. Be sure that you want to do this, as it cannot be undone.
+
+
+To create a new folder (also known as a directory) in the terminal, you can use the `mkdir` command followed by the name of the folder you want to create. Here's an example:
+
+```bash
+mkdir new_folder
+```
+
+In this example, `new_folder` is the name of the new directory that will be created. You can replace `new_folder` with whatever name you want for your directory. Remember, if the name contains spaces, you need to enclose it in quotes. For example:
+
+```bash
+mkdir "new folder"
+```
+
+This will create a new directory named `new folder`. Happy coding! 😊
